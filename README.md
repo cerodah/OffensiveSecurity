@@ -33,7 +33,7 @@ Vemos que hay algo inusual de ver. Esta cpulimit que consiste en limitar el uso 
 
 ![2021-07-15_19-07-1626369181](https://user-images.githubusercontent.com/82907557/125829370-800a9270-1aa9-482a-ad91-811e7b40cece.jpg)
 
-Efectuamos el siguiente comando. Peor ojo, hay que ejecuarlo desde la ruta completa de cpulimit -> "/usr/bin/cpulimit -l 100 -f -- /bin/sh -p".
+Efectuamos el siguiente comando. Pero ojo, hay que ejecuarlo desde la ruta completa de cpulimit -> "/usr/bin/cpulimit -l 100 -f -- /bin/sh -p".
 
 ![2021-07-15_19-07-1626369290](https://user-images.githubusercontent.com/82907557/125829657-eaba3615-8c45-4f4d-966e-ff4781fc946e.jpg)
 
