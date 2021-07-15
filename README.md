@@ -1,4 +1,4 @@
-# OffensiveSecurity
+# OnSystemShellDredd
 Offensive Security Labs Solutions (OSCP Preparation).
 
 Recién acabo de hacer la maquina OnSystemShellDredd de ShellDredd. Tiene una dificultad Easy y calificado por la comunidad Easy también.
